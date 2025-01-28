@@ -2,10 +2,9 @@
 ### Mulearn org of [Eldho Baby](https://github.com/e3ob).
 
 ## [Mulearn Profile](https://app.mulearn.org/profile/eldhobaby-1@mulearn)
-<!--
 ## Rank
-### <img src="https://cdn.discordapp.com/attachments/789476711867088967/1328316705092407357/rank.png?ex=678642d5&is=6784f155&hm=b253c1b18141af8af6cfd1f54c0e0b1d25426b030f7e2b5113b24b4494a342d5&" alt="Rank Image" style="width: 300px; height: auto;">
--->
+### <img src="https://cdn.discordapp.com/attachments/789476711867088967/1334242363014516746/rank.png?ex=679bd188&is=679a8008&hm=9d1ff5c77c74a44b3a9a0b4bb9108881467fb035eee7d8b5dc701f49db613bc7&" alt="Rank Image" style="width: 300px; height: auto;">
+
 <!--
 
 **Here are some ideas to get you started:**
