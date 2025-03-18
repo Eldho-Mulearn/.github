@@ -3,7 +3,7 @@
 
 ## [Mulearn Profile](https://app.mulearn.org/profile/eldhobaby-1@mulearn)
 ## Rank
-### <img src="https://cdn.discordapp.com/attachments/789476711867088967/1334242363014516746/rank.png?ex=679bd188&is=679a8008&hm=9d1ff5c77c74a44b3a9a0b4bb9108881467fb035eee7d8b5dc701f49db613bc7&" alt="Rank Image" style="width: 300px; height: auto;">
+### <img src="https://cdn.discordapp.com/attachments/789476711867088967/1351656068211675177/rank.png?ex=67db2b4f&is=67d9d9cf&hm=e2f0c88e6c4ddfde198a0e1873e6e2b88b5ea6d7bcf47a77773e6d2b4d42d137&" alt="Rank Image" style="width: 300px; height: auto;">
 
 <!--
 
