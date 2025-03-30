@@ -4,7 +4,7 @@
 ## [Mulearn Profile](https://app.mulearn.org/profile/eldhobaby-1@mulearn)
 ## Rank
 ### <img src="https://mulearn.org/embed/rank/eldhobaby-1@mulearn"
-    alt="Rank Image" style="width: 400px; height: auto;">
+    alt="Rank Image" style="width: 400px; height: auto;" />
 
 <!--
 
